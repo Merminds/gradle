@@ -20,4 +20,4 @@ Run the following command (updating the sonar.host.url property as appropriate):
 
 To get the project [test coverage](https://community.sonarsource.com/t/coverage-test-data-importing-jacoco-coverage-report-in-xml-format) computed, add gradle task `jacocoTestReport` to your command line.
 
-# Some changes
+# Some changes again
